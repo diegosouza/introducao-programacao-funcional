@@ -1,0 +1,14 @@
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 { text-transform: none; }
+
+.reveal section img {
+    border: 0;
+    box-shadow: none;
+}
+
+.reveal code, .reveal pre {
+    font-family: "Ubuntu Mono", Monaco, monospace;
+}
+
+.reveal pre {
+    font-size: 0.65em;
+}
